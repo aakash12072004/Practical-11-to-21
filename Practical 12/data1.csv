@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Department,Salary
+101,Amit,25,HR,40000
+102,Neha,30,IT,60000
+103,Raj,,Finance,55000
+104,Priya,28,hr,42000
+105,Karan,35,IT Dept,80000
+106,Simran,27,Finance,52000
+107,Rohit,45,Management,150000
+108,Sneha,29,,48000
+109,Vikas,31,IT,62000
+110,Anjali,26,HR,41000

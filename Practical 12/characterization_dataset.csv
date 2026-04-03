@@ -1,0 +1,21 @@
+EmployeeID,Name,Age,Department,Salary,JoinDate,Performance,City
+101,Amit,25,HR,40000,2021-05-10,Good,Ahmedabad
+102,Neha,30,IT,60000,2020-03-15,Excellent,Mumbai
+103,Raj,,Finance,55000,2019-07-20,Average,Delhi
+104,Priya,28,hr,42000,2022-01-12,,Ahmedabad
+105,Karan,35,IT Dept,80000,2018-09-30,Excellent,Bangalore
+106,Simran,27,Finance,52000,2021-11-05,Good,Delhi
+107,Rohit,45,Management,150000,2015-06-25,Excellent,Mumbai
+108,Sneha,29,,48000,2020-08-19,Average,Ahmedabad
+109,Vikas,31,IT,62000,2019-12-01,Good,Pune
+110,Anjali,26,HR,41000,2022-04-18,Good,Delhi
+111,Deepak,33,Finance,,2018-10-10,Average,Mumbai
+112,Pooja,29,IT Dept,61000,2021-02-14,Good,Bangalore
+113,Arjun,40,Management,140000,2016-07-07,Excellent,Pune
+114,Meena,,HR,39000,2022-06-01,Good,Ahmedabad
+115,Suresh,38,Finance,57000,2017-03-22,Average,Delhi
+116,Kavita,27,hr,43000,2021-09-09,Good,Mumbai
+117,Nikhil,34,IT,1000000,2019-05-05,Excellent,Bangalore
+118,Rina,28,Finance,53000,,Average,Pune
+119,Alok,32,IT Dept,61000,2020-11-11,Good,Delhi
+120,Tina,26,HR,40000,2023-01-01,,Ahmedabad
